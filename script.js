@@ -37,7 +37,7 @@ function handleFormSubmit(e) {
   if (message) text += `\nMessage: ${message}`;
 
   const encoded = encodeURIComponent(text);
-  window.open(`https://wa.me/919840580550?text=${encoded}`, '_blank');
+  window.open(`https://wa.me/918939919070?text=${encoded}`, '_blank');
 }
 
 // ── Intersection Observer for scroll animations ──
